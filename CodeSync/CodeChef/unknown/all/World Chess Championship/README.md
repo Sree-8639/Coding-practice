@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.codechef.com/viewsolution/1363098260
-- Synced: 2026-09-25T09:42:37.817Z
+- Synced: 2026-09-25T09:44:41.548Z
 
 ## Problem Description
 
