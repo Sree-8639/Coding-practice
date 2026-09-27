@@ -1,0 +1,28 @@
+/*
+ * Platform: CodeChef
+ * Problem: Chef and Nested Parentheses Practice Problem in Strings
+ * URL: https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/NESTEDPARAN
+ * Language: Java ​
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: .
+ * Memory: N/A
+ * Synced: 2026-09-27T15:48:42.530Z
+ */
+
+private static int maxNestingDepth(String s) {
+     //write your code here...
+     int md=0;
+     int count =0;
+     int n=s.length();
+     for(char ch:s.toCharArray()){
+         if(ch=='('){
+             count++;
+             if(count>md)
+             md=count;
+         }
+         else if(ch==')')
+         count--;
+     }
+     return md;
+ }
