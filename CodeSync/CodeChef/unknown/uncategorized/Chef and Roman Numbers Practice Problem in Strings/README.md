@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/CHEFROMAN) |
-| Synced | 2026-09-27T16:22:00.774Z |
+| Synced | 2026-09-27T16:41:31.231Z |
 
 ## Problem Statement
 
