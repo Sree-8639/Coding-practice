@@ -7,62 +7,84 @@
 | Platform | CodeChef |
 | Language | Java ​ |
 | Difficulty | Easy |
-| Topics | 23% Completed |
+| Topics | Uncategorized |
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/ERROR) |
-| Synced | 2026-09-27T14:30:28.490Z |
+| Synced | 2026-09-27T17:13:38.495Z |
 
 ## Problem Statement
 
-Switch to AI Tutor Mode
-NEW
-Chef and Feedback
+Lots of geeky customers visit our chef's restaurant everyday. So, when asked to fill the feedback form, these customers represent the feedback using a binary string (i.e a string that contains only characters **'0'** and **'1'**.
 
-Lots of geeky customers visit our chef's restaurant everyday. So, when asked to fill the feedback form, these customers represent the feedback using a binary string (i.e a string that contains only characters '0' and '1'.
+Now since chef is not that great in deciphering binary strings, he has decided the following criteria to classify the feedback as **Good** or **Bad** :
 
-Now since chef is not that great in deciphering binary strings, he has decided the following criteria to classify the feedback as Good or Bad :
+If the string contains the substring **"010"** or **"101"**, then the feedback is **Good**, else it is **Bad**. Note that, to be **Good** it is not necessary to have both of them as substring.
 
-If the string contains the substring "010" or "101", then the feedback is Good, else it is Bad. Note that, to be Good it is not necessary to have both of them as substring.
+So given some binary strings, you need to output whether according to the chef, the strings are **Good** or **Bad**.
 
-So given some binary strings, you need to output whether according to the chef, the strings are Good or Bad.
+### Input
 
-Input
+The first line contains an integer **T** denoting the number of feedbacks. Each of the next **T** lines contains a string composed of only **'0'** and **'1'**.
 
-The first line contains an integer T denoting the number of feedbacks. Each of the next T lines contains a string composed of only '0' and '1'.
+### Output
 
-Output
+For every test case, print in a single line **Good** or **Bad** as per the Chef's method of classification.
 
-For every test case, print in a single line Good or Bad as per the Chef's method of classification.
+### Constraints
 
-Constraints
-1 ≤ T ≤ 100
-1 ≤ |S| ≤ 105
+- **1**≤ **T** ≤ **100**
 
-Sum of length of all strings in one test file will not exceed 6*106.
+- **1** ≤ **|S|** ≤ **10^5**
 
-Sample 1:
-Input
-Output
+Sum of length of all strings in one test file will not exceed **6*10^6**.
+
+### Sample 1:
+
+InputOutput
+```
 2
 11111110
 10101010101010
+```
+
+```
 Bad
 Good
-Explanation:
+```
 
-Example case 1.
-The string doesn't contain 010 or 101 as substrings.
+### Explanation:
 
-Example case 2.
-The string contains both 010 and 101 as substrings.
+**Example case 1.**
 
-Did you like the problem?
-50 users found this helpful
+The string doesn't contain **010** or **101** as substrings.
+
+**Example case 2.**
+
+The string contains both **010** and **101** as substrings.
+
+AI Tutor
+
+English
+
+Introducing multiple AI Chat Languages✨
+
+Now Chat in your language! Select from the dropdown
+
+# Welcome to the CodeChef AI Tutor
+
+I am your problem-solving companion.
+
+We will begin by understanding the problem together, then explore different ways to solve it.
+Share any ideas you have — and I will help you refine and build on them.
+
+**Ready to get started?**
+
+Add my Code
 
 ## Solution Approach
 
-This solution was accepted on CodeChef using Java ​. The detected topics include: 23% Completed. See the source code file for implementation details.
+This solution was accepted on CodeChef using Java ​. See the source code file for implementation details.
 
 ## Source Code
 
