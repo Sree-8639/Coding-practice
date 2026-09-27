@@ -1,0 +1,34 @@
+/*
+ * Platform: CodeChef
+ * Problem: Chef and Feedback Practice Problem in Strings
+ * URL: https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/ERROR
+ * Language: Java ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-27T17:24:43.273Z
+ */
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+    public static void main (String[] args) throws java.lang.Exception
+    {
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        sc.nextLine();
+        for(int i=0;i<t;i++){
+            String s=sc.nextLine();
+            if (s.contains("010") || s.contains("101"))
+            System.out.println("Good");
+            else
+            System.out.println("Bad");
+        
+        }
+
+    }
+}
