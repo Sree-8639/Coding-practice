@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/ERROR) |
-| Synced | 2026-09-27T10:22:14.503Z |
+| Synced | 2026-09-27T14:28:18.477Z |
 
 ## Problem Statement
 
