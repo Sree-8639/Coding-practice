@@ -11,9 +11,11 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/ERROR) |
-| Synced | 2026-09-27T17:16:21.115Z |
+| Synced | 2026-09-27T17:24:43.273Z |
 
 ## Problem Statement
+
+### Chef and Feedback
 
 Lots of geeky customers visit our chef's restaurant everyday. So, when asked to fill the feedback form, these customers represent the feedback using a binary string (i.e a string that contains only characters **'0'** and **'1'**.
 
@@ -41,7 +43,6 @@ Sum of length of all strings in one test file will not exceed **6*10^6**.
 
 ### Sample 1:
 
-InputOutput
 ```
 2
 11111110
@@ -62,25 +63,6 @@ The string doesn't contain **010** or **101** as substrings.
 **Example case 2.**
 
 The string contains both **010** and **101** as substrings.
-
-AI Tutor
-
-English
-
-Introducing multiple AI Chat Languages✨
-
-Now Chat in your language! Select from the dropdown
-
-# Welcome to the CodeChef AI Tutor
-
-I am your problem-solving companion.
-
-We will begin by understanding the problem together, then explore different ways to solve it.
-Share any ideas you have — and I will help you refine and build on them.
-
-**Ready to get started?**
-
-Add my Code
 
 ## Solution Approach
 
