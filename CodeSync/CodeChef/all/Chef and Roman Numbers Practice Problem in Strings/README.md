@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/CHEFROMAN) |
-| Synced | 2026-09-27T16:44:00.456Z |
+| Synced | 2026-09-27T17:23:36.412Z |
 
 ## Problem Statement
 
@@ -51,11 +51,11 @@ Your task is to help Chef convert the given Roman numeral string S into its inte
 
 ### Function Name
 
-romanToIntromanToIntromanToInt – This function converts a given Roman numeral string into its corresponding integer value.
+romanToInt – This function converts a given Roman numeral string into its corresponding integer value.
 
 ### Parameters
 
-- sss : A string representing a valid Roman numeral. The string contains only the characters `I`, `V`, `X`, `L`, `C`, `D`, and `M`.
+- s : A string representing a valid Roman numeral. The string contains only the characters `I`, `V`, `X`, `L`, `C`, `D`, and `M`.
 
 ### Return Value
 
@@ -63,11 +63,11 @@ romanToIntromanToIntromanToInt – This function converts a given Roman numeral 
 
 ## Constraints
 
-- 1≤∣S∣≤151 \le |S| \le 151≤∣S∣≤15
+- 1≤∣S∣≤15
 
-- S contains only the characters I,V,X,L,C,D, and MS \text{ contains only the characters } I, V, X, L, C, D, \text{ and } MS contains only the characters I,V,X,L,C,D, and M.
+- S contains only the characters I,V,X,L,C,D, and M.
 
-- It is guaranteed that S is valid and represents a number between 1 and 3999\text{It is guaranteed that } S \text{ is valid and represents a number between } 1 \text{ and } 3999It is guaranteed that S is valid and represents a number between 1 and 3999.
+- It is guaranteed that S is valid and represents a number between 1 and 3999.
 
 ### Input Format
 
@@ -79,7 +79,6 @@ romanToIntromanToIntromanToInt – This function converts a given Roman numeral 
 
 ### Sample 1:
 
-InputOutput
 ```
 XLII
 ```
@@ -90,7 +89,6 @@ XLII
 
 ### Sample 2:
 
-InputOutput
 ```
 CMXLIV
 ```
@@ -98,25 +96,6 @@ CMXLIV
 ```
 944
 ```
-
-AI Tutor
-
-English
-
-Introducing multiple AI Chat Languages✨
-
-Now Chat in your language! Select from the dropdown
-
-# Welcome to the CodeChef AI Tutor
-
-I am your problem-solving companion.
-
-We will begin by understanding the problem together, then explore different ways to solve it.
-Share any ideas you have — and I will help you refine and build on them.
-
-**Ready to get started?**
-
-Add my Code
 
 ## Solution Approach
 
