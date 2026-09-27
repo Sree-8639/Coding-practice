@@ -4,10 +4,10 @@
  * URL: https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/ERROR
  * Language: Java ​
  * Difficulty: Easy
- * Topics: 23% Completed
+ * Topics: Uncategorized
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-27T14:30:28.490Z
+ * Synced: 2026-09-27T17:13:38.495Z
  */
 
 import java.util.*;
