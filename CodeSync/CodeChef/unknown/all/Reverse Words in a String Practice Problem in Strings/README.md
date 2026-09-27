@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/REVERSEWORD) |
-| Synced | 2026-09-27T16:59:46.059Z |
+| Synced | 2026-09-27T17:12:20.437Z |
 
 ## Problem Statement
 
