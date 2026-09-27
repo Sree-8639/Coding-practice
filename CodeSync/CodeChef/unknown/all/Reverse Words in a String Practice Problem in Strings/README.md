@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/REVERSEWORD) |
-| Synced | 2026-09-27T16:46:46.404Z |
+| Synced | 2026-09-27T16:50:02.439Z |
 
 ## Problem Statement
 
@@ -86,8 +86,6 @@ structures data learn
 ### Sample 2:
 
 InputOutput
-Copy to clipboard
-
 ```
 1
 Roses are red
