@@ -11,13 +11,13 @@
 | Runtime | . |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/NESTEDPARAN) |
-| Synced | 2026-09-27T16:21:16.120Z |
+| Synced | 2026-09-27T17:24:10.796Z |
 
 ## Problem Statement
 
 ### Chef and Nested Parentheses
 
-Chef is playing with a string **sss** that contains digits, arithmetic operators, and parentheses. He wants to find the **maximum nesting depth** of parentheses in the string.
+Chef is playing with a string **s** that contains digits, arithmetic operators, and parentheses. He wants to find the **maximum nesting depth** of parentheses in the string.
 
 The nesting depth is the maximum number of parentheses that are open at the same time. Chef wants you to help him calculate this value.
 
@@ -25,9 +25,9 @@ The nesting depth is the maximum number of parentheses that are open at the same
 
 ### Function Declaration
 
-- **Function Name:** - **maxNestingDepthmaxNestingDepthmaxNestingDepth**
+- **Function Name:** - **maxNestingDepth**
 
-- **Parameters:** - **sss** (`string`) A string that may contain digits, arithmetic operators **`+`**, **`-`**, **`*`**, **`/`**, and parentheses **`(`**, **`)`**.
+- **Parameters:** - **s** (`string`) A string that may contain digits, arithmetic operators **`+`**, **`-`**, **`*`**, **`/`**, and parentheses **`(`**, **`)`**.
 
 - **Return Value:** - Returns an `int` representing the **maximum nesting depth** of parentheses in the string.
 
@@ -35,21 +35,21 @@ The nesting depth is the maximum number of parentheses that are open at the same
 
 ## Constraints
 
-- 1≤T≤1001 \le T \le 1001≤T≤100
+- 1≤T≤100
 
-- 1≤∣s∣≤1001 \le |s| \le 1001≤∣s∣≤100
+- 1≤∣s∣≤100
 
-- **sss** consists of digits **000–999**, arithmetic operators **`+`**, **`-`**, **`*`**, **`/`**, and parentheses **`(`**, **`)`**
+- **s** consists of digits **0–9**, arithmetic operators **`+`**, **`-`**, **`*`**, **`/`**, and parentheses **`(`**, **`)`**
 
-- **sss** is guaranteed to be a valid parentheses string (**VPS**)
+- **s** is guaranteed to be a valid parentheses string (**VPS**)
 
 ---
 
 ### Input Format
 
-- The first line contains an integer TTT — the number of test cases.
+- The first line contains an integer T — the number of test cases.
 
-- Each of the next TTT lines contains a string sss — a valid parentheses string (VPS).
+- Each of the next T lines contains a string s — a valid parentheses string (VPS).
 
 ---
 
@@ -61,7 +61,6 @@ The nesting depth is the maximum number of parentheses that are open at the same
 
 ### Sample 1:
 
-InputOutput
 ```
 4
 ((1+2)+3)
@@ -86,25 +85,6 @@ InputOutput
 **Test case 3**: Maximum nesting depth is 3 (inside `2*(3+4)`).
 
 **Test case 4**: Maximum nesting depth is 1 (no nested parentheses).
-
-AI Tutor
-
-English
-
-Introducing multiple AI Chat Languages✨
-
-Now Chat in your language! Select from the dropdown
-
-# Welcome to the CodeChef AI Tutor
-
-I am your problem-solving companion.
-
-We will begin by understanding the problem together, then explore different ways to solve it.
-Share any ideas you have — and I will help you refine and build on them.
-
-**Ready to get started?**
-
-Add my Code
 
 ## Solution Approach
 
