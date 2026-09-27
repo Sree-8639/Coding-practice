@@ -1,0 +1,23 @@
+/*
+ * Platform: CodeChef
+ * Problem: Reverse Words in a String Practice Problem in Strings
+ * URL: https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/REVERSEWORD
+ * Language: Java ​
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-27T16:46:46.404Z
+ */
+
+public static String reverseWords(String s) {
+    s=s.trim();
+    String[] words=s.split("\\s+");
+    StringBuilder sb=new StringBuilder();
+    for(int i=words.length-1;i>=0;i--){
+        sb.append(words[i]);
+        if(i>0)
+        sb.append(" ");
+    }
+    return sb.toString();
+}
