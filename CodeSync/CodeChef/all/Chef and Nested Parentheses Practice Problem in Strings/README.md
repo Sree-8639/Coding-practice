@@ -11,7 +11,7 @@
 | Runtime | . |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/NESTEDPARAN) |
-| Synced | 2026-09-27T16:18:14.156Z |
+| Synced | 2026-09-27T16:21:16.120Z |
 
 ## Problem Statement
 
