@@ -11,19 +11,19 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/strings/STRINGSPRO/problems/REVERSEWORD) |
-| Synced | 2026-09-27T17:12:20.437Z |
+| Synced | 2026-09-27T17:25:48.132Z |
 
 ## Problem Statement
 
 ### Reverse Words in a String
 
-You are given a string sss consisting of English letters, digits, and spaces `' '`.
+You are given a string s consisting of English letters, digits, and spaces `' '`.
 
 Your task is to **reverse the order of the words** in the string.
 
 A word is defined as a sequence of non-space characters.
 
-The words in sss are separated by one or more spaces.
+The words in s are separated by one or more spaces.
 
 You must:
 
@@ -35,11 +35,11 @@ You must:
 
 ### Function Name
 
-reverseWordsreverseWordsreverseWords – This function reverses the order of words in a given string while removing extra spaces.
+reverseWords – This function reverses the order of words in a given string while removing extra spaces.
 
 ### Parameters
 
-- sss : A reference to a string consisting of English letters (uppercase and lowercase), digits, and spaces.
+- s : A reference to a string consisting of English letters (uppercase and lowercase), digits, and spaces.
 
 ### Return Value
 
@@ -47,9 +47,9 @@ reverseWordsreverseWordsreverseWords – This function reverses the order of wor
 
 ## Constraints
 
-- 1≤T≤1001 \leq T \leq 1001≤T≤100
+- 1≤T≤100
 
-- 1≤∣s∣≤1041 \leq |s| \leq 10^41≤∣s∣≤104
+- 1≤∣s∣≤104
 
 - The string contains English letters (uppercase and lowercase), digits, and spaces.
 
@@ -57,9 +57,9 @@ reverseWordsreverseWordsreverseWords – This function reverses the order of wor
 
 ### Input Format
 
-- The first line contains a single integer TTT — the number of test cases.
+- The first line contains a single integer T — the number of test cases.
 
-- Each of the next TTT lines contains a string sss.
+- Each of the next T lines contains a string s.
 
 ### Output Format
 
@@ -67,7 +67,6 @@ reverseWordsreverseWordsreverseWords – This function reverses the order of wor
 
 ### Sample 1:
 
-InputOutput
 ```
 4
 codechef is awesome
@@ -85,7 +84,6 @@ structures data learn
 
 ### Sample 2:
 
-InputOutput
 ```
 1
 Roses are red
@@ -94,25 +92,6 @@ Roses are red
 ```
 red are Roses
 ```
-
-AI Tutor
-
-English
-
-Introducing multiple AI Chat Languages✨
-
-Now Chat in your language! Select from the dropdown
-
-# Welcome to the CodeChef AI Tutor
-
-I am your problem-solving companion.
-
-We will begin by understanding the problem together, then explore different ways to solve it.
-Share any ideas you have — and I will help you refine and build on them.
-
-**Ready to get started?**
-
-Add my Code
 
 ## Solution Approach
 
