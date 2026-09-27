@@ -7,10 +7,12 @@
  * Topics: Uncategorized
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-27T16:22:00.774Z
+ * Synced: 2026-09-27T16:41:31.231Z
  */
 
-int n = s.length();
+public static int romanToInt(String s) {
+        int result = 0;
+        int n = s.length();
 
         for (int i = 0; i < n; i++) {
             int current = romanValue(s.charAt(i));
