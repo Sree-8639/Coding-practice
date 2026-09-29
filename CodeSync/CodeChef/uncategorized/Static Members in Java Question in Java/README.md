@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/java-interview-questions/JAVAPREP05/problems/JAVAMCQ48) |
-| Synced | 2026-09-29T06:28:11.699Z |
+| Synced | 2026-09-29T06:29:13.160Z |
 
 ## Problem Statement
 
