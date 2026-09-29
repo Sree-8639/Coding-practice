@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/learn/course/java/JAVANEW01/problems/JAVAPROB03B) |
-| Synced | 2026-09-29T02:22:06.093Z |
+| Synced | 2026-09-29T02:25:40.634Z |
 
 ## Problem Statement
 
