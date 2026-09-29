@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-09-29T06:17:12.185Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "String s1 = \"Hello\"; String s2 = \"Hello\"; String s3 = new String(\"Hello\");",
+  "problemTitle": "String Creation Question in Java",
+  "problemUrl": "https://www.codechef.com/practice/course/java-interview-questions/JAVAPREP04/problems/JAVAMCQ33",
+  "submissionId": "7bchaa"
+}
