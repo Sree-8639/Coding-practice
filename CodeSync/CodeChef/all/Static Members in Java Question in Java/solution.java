@@ -7,7 +7,7 @@
  * Topics: Uncategorized
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-29T06:30:31.727Z
+ * Synced: 2026-09-29T06:31:31.684Z
  */
 
 Static members (variables and methods) in Java belong to the class rather than any specific instance of the class. They can be accessed using the class name, without creating an object of the class. Static variables are shared by all instances of the class and are initialized when the class is loaded, not when objects are created. Static methods cannot access non-static members directly because they don't have access to a specific instance. Static methods cannot be overridden, although they can be hidden in subclasses. For example:
