@@ -1,0 +1,15 @@
+/*
+ * Platform: CodeChef
+ * Problem: String Creation Question in Java
+ * URL: https://www.codechef.com/practice/course/java-interview-questions/JAVAPREP04/problems/JAVAMCQ33
+ * Language: String s1 = "Hello"; String s2 = "Hello"; String s3 = new String("Hello");
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-29T06:17:12.185Z
+ */
+
+String s1 = "Hello";
+String s2 = "Hello";
+String s3 = new String("Hello");
