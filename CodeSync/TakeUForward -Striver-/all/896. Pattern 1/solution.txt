@@ -7,11 +7,10 @@
  * Topics: Uncategorized
  * Runtime: 0.756 ms
  * Memory: N/A
- * Synced: 2026-09-30T16:06:16.245Z
+ * Synced: 2026-09-30T16:07:02.011Z
  */
 
-class Solution {
-    public void pattern1(int n) {
+public void pattern1(int n) {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 System.out.print("*");
