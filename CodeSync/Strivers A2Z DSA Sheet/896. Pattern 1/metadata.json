@@ -1,14 +1,15 @@
 {
-  "submissionTimestamp": "2026-09-30T16:33:15.012Z",
-  "runtime": "0.860 ms",
+  "submissionTimestamp": "2026-09-30T17:21:45.901Z",
+  "runtime": "0.929 ms",
   "memoryUsage": "N/A",
-  "difficulty": "Unknown",
+  "difficulty": "Easy",
   "tags": [
-    "Uncategorized"
+    "Pattern",
+    "Basics"
   ],
   "platform": "TakeUForward (Striver)",
   "language": "Java",
   "problemTitle": "896. Pattern 1",
   "problemUrl": "https://takeuforward.org/practice/dsa/pattern-1",
-  "submissionId": "2oc5e7"
+  "submissionId": "7zm037"
 }
