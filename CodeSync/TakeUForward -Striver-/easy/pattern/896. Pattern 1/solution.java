@@ -7,7 +7,7 @@
  * Topics: Pattern, Basics
  * Runtime: 0.929 ms
  * Memory: N/A
- * Synced: 2026-09-30T17:33:21.019Z
+ * Synced: 2026-09-30T17:34:20.992Z
  */
 
 class Solution {
