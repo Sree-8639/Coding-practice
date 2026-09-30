@@ -1,0 +1,18 @@
+/*
+ * Platform: CodeChef
+ * Problem: Good Morning Greeting with Semicolons in Java
+ * URL: https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP03
+ * Language: Main.java:4: error: ';' expected System.out.println("Good morning!") ^ 1 error
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-30T10:47:21.789Z
+ */
+
+class Codechef {
+    public static void main(String[] args) {
+        // Printing a good morning greeting message
+        System.out.println("Good morning!"); 
+    }
+}
