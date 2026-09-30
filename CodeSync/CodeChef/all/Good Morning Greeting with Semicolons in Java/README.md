@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP03) |
-| Synced | 2026-09-30T10:47:21.789Z |
+| Synced | 2026-09-30T10:48:40.493Z |
 
 ## Problem Statement
 
