@@ -5,12 +5,13 @@
  * Language: Tab-1
  * Difficulty: Unknown
  * Topics: Uncategorized
- * Runtime: 0.756 ms
+ * Runtime: 0.858 ms
  * Memory: N/A
- * Synced: 2026-09-30T16:07:02.011Z
+ * Synced: 2026-09-30T16:18:25.115Z
  */
 
-public void pattern1(int n) {
+class Solution {
+    public void pattern1(int n) {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 System.out.print("*");
