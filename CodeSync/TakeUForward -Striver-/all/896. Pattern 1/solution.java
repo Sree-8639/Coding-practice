@@ -3,21 +3,30 @@
  * Problem: 896. Pattern 1
  * URL: https://takeuforward.org/practice/dsa/pattern-1
  * Language: Java
- * Difficulty: Unknown
- * Topics: Uncategorized
- * Runtime: 0.860 ms
+ * Difficulty: Easy
+ * Topics: Pattern, Basics
+ * Runtime: 0.929 ms
  * Memory: N/A
- * Synced: 2026-09-30T16:33:15.012Z
+ * Synced: 2026-09-30T17:21:45.901Z
  */
 
 class Solution {
-    public void pattern1(int n) {
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                System.out.print("*");
-            }
-            System.out.println();
-        }
-    }
-    
-}
+    public void pattern1
+    (int n) {
+        for(int i=0;i<n;i
+        ++){
+            for(int j=0;
+            j<n;j++){
+                System.
+                out.print
+                ("*");
+class Solution {
+    public void pattern1
+    (int n) {
+        for(int i=0;i<n;i
+        ++){
+            for(int j=0;
+            j<n;j++){
+                System.
+                out.print
+                ("*");
