@@ -6,28 +6,36 @@
 |---|---|
 | Platform | TakeUForward (Striver) |
 | Language | Java |
-| Difficulty | Unknown |
-| Topics | Uncategorized |
-| Runtime | 0.860 ms |
+| Difficulty | Easy |
+| Topics | Pattern, Basics |
+| Runtime | 0.929 ms |
 | Memory | N/A |
 | Problem URL | [Link](https://takeuforward.org/practice/dsa/pattern-1) |
-| Synced | 2026-09-30T16:33:15.012Z |
+| Synced | 2026-09-30T17:21:45.901Z |
 
 ## Problem Statement
 
-FindBorderBarSize
-
 Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
 
+```
 *****
+```
 
+```
 *****
+```
 
+```
 *****
+```
 
+```
 *****
+```
 
+```
 *****
+```
 
 Print the pattern in the function given to you.
 
@@ -37,25 +45,23 @@ Print the pattern in the function given to you.
 
 **Output**:
 
+![Output Pattern](https://static.takeuforward.org/content/1789473420_lBHM1zFN.webp)
+
 ### Example 2:
 
 **Input**: n = 2
 
 **Output**:
 
-Still unsure what the problem is asking ?
-
-Let’s go through a few more examples, step by step, to make it clearer.
+![Output Pattern](https://static.takeuforward.org/content/1789473426_2K9wAjee.webp)
 
 ### Constraints:
 
 - 1 <= n <= 100
 
-159
-
 ## Solution Approach
 
-This solution was accepted on TakeUForward (Striver) using Java. See the source code file for implementation details.
+This solution was accepted on TakeUForward (Striver) using Java. The detected topics include: Pattern, Basics. See the source code file for implementation details.
 
 ## Source Code
 
