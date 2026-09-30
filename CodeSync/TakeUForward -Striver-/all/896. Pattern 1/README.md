@@ -5,13 +5,13 @@
 | Field | Details |
 |---|---|
 | Platform | TakeUForward (Striver) |
-| Language | Tab-1 |
+| Language | Java |
 | Difficulty | Unknown |
 | Topics | Uncategorized |
-| Runtime | 0.858 ms |
+| Runtime | 0.860 ms |
 | Memory | N/A |
 | Problem URL | [Link](https://takeuforward.org/practice/dsa/pattern-1) |
-| Synced | 2026-09-30T16:31:20.987Z |
+| Synced | 2026-09-30T16:32:29.914Z |
 
 ## Problem Statement
 
@@ -55,8 +55,8 @@ Let’s go through a few more examples, step by step, to make it clearer.
 
 ## Solution Approach
 
-This solution was accepted on TakeUForward (Striver) using Tab-1. See the source code file for implementation details.
+This solution was accepted on TakeUForward (Striver) using Java. See the source code file for implementation details.
 
 ## Source Code
 
-The accepted Tab-1 solution is stored in `solution.txt`.
+The accepted Java solution is stored in `solution.java`.
