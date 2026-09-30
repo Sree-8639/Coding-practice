@@ -7,26 +7,28 @@
  * Topics: Pattern, Basics
  * Runtime: 0.929 ms
  * Memory: N/A
- * Synced: 2026-09-30T17:21:45.901Z
+ * Synced: 2026-09-30T17:22:31.009Z
  */
 
 class Solution {
-    public void pattern1
-    (int n) {
-        for(int i=0;i<n;i
-        ++){
-            for(int j=0;
-            j<n;j++){
-                System.
-                out.print
-                ("*");
+    public void pattern1(int n) {
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+    
+}
 class Solution {
-    public void pattern1
-    (int n) {
-        for(int i=0;i<n;i
-        ++){
-            for(int j=0;
-            j<n;j++){
-                System.
-                out.print
-                ("*");
+    public void pattern1(int n) {
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+    
+}
