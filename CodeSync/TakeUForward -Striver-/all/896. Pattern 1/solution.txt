@@ -4,10 +4,10 @@
  * URL: https://takeuforward.org/practice/dsa/pattern-1
  * Language: Tab-1
  * Difficulty: Unknown
- * Topics: Discover more
- * Runtime: 0.756 ms
+ * Topics: Uncategorized
+ * Runtime: 0.858 ms
  * Memory: N/A
- * Synced: 2026-09-30T16:10:20.993Z
+ * Synced: 2026-09-30T16:18:25.115Z
  */
 
 class Solution {
