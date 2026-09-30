@@ -11,7 +11,7 @@
 | Runtime | 0.858 ms |
 | Memory | N/A |
 | Problem URL | [Link](https://takeuforward.org/practice/dsa/pattern-1) |
-| Synced | 2026-09-30T16:27:20.997Z |
+| Synced | 2026-09-30T16:28:20.992Z |
 
 ## Problem Statement
 
