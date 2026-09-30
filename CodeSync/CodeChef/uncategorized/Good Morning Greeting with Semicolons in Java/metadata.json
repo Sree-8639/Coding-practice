@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-09-30T10:47:21.789Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "Main.java:4: error: ';' expected System.out.println(\"Good morning!\") ^ 1 error",
+  "problemTitle": "Good Morning Greeting with Semicolons in Java",
+  "problemUrl": "https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP03",
+  "submissionId": "oypx0d"
+}
