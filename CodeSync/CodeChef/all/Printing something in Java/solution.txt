@@ -1,0 +1,21 @@
+/*
+ * Platform: CodeChef
+ * Problem: Printing something in Java
+ * URL: https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP30
+ * Language: My name is John. My favorite color is Blue.My favorite hobby is Reading.
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-03T04:37:34.375Z
+ */
+
+class Codechef {
+    public static void main(String[] args) {
+        System.out.println("My name is John.");
+        System.out.print("My favorite color is Blue.");
+        System.out.println("My favorite hobby is Reading.");
+    }
+}
+
+IllegalThreadStateException keyword
