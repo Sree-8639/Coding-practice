@@ -1,0 +1,22 @@
+/*
+ * Platform: CodeChef
+ * Problem: Can you solve the error in Java
+ * URL: https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP13
+ * Language: Main.java:5: error: package system does not exist system.OUt.PrinTLn("Java is fun"); ^ 1 error
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-03T04:14:42.937Z
+ */
+
+class Codechef {  
+
+    public static void main(String[] args) {
+
+        System.out.println("Java is fun");
+    }
+}
+
+
+println snippet
