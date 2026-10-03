@@ -1,0 +1,19 @@
+/*
+ * Platform: CodeChef
+ * Problem: Print a multi-line message in Java
+ * URL: https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP28
+ * Language: Hello, my name is Alex.Hello, my name is Bob.
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-03T04:23:21.392Z
+ */
+
+class Codechef {
+    public static void main(String[] args) {
+        
+        System.out.print("Hello, my name is Alex.");
+        System.out.print("Hello, my name is Bob.");
+    }
+}
