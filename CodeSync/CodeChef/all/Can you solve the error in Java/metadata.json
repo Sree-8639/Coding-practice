@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-10-03T04:14:42.937Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "Main.java:5: error: package system does not exist system.OUt.PrinTLn(\"Java is fun\"); ^ 1 error",
+  "problemTitle": "Can you solve the error in Java",
+  "problemUrl": "https://www.codechef.com/learn/course/java/JAVANEW02/problems/QVQICP13",
+  "submissionId": "fluany"
+}
