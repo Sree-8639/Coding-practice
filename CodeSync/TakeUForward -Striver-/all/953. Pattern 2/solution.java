@@ -7,22 +7,22 @@
  * Topics: Pattern, Basics
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-05T16:54:14.289Z
+ * Synced: 2026-10-05T16:55:17.525Z
  */
 
 class Solution {
     public void pattern2(int n) {
-        for(int i=0;i<=n;i++){
-            System.out.println("*");
+        for(int i=1;i<=n;i++){
+            System.out.print("*");
         }
     }
-            for(int j=0;j<=n;j++)
-}
+            for(int j=1;j<=i;j++){}
+        SYstem.out.println("");
 class Solution {
     public void pattern2(int n) {
-        for(int i=0;i<=n;i++){
-            System.out.println("*");
+        for(int i=1;i<=n;i++){
+            System.out.print("*");
         }
     }
-            for(int j=0;j<=n;j++)
-}
+            for(int j=1;j<=i;j++){}
+        SYstem.out.println("");
