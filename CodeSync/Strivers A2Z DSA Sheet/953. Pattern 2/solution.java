@@ -7,7 +7,7 @@
  * Topics: Pattern, Basics
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-05T16:53:24.289Z
+ * Synced: 2026-10-05T16:54:14.289Z
  */
 
 class Solution {
