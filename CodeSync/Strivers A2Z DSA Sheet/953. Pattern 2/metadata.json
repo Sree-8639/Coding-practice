@@ -1,0 +1,15 @@
+{
+  "submissionTimestamp": "2026-10-05T16:53:24.289Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Pattern",
+    "Basics"
+  ],
+  "platform": "TakeUForward (Striver)",
+  "language": "Java",
+  "problemTitle": "953. Pattern 2",
+  "problemUrl": "https://takeuforward.org/practice/dsa/pattern-2",
+  "submissionId": "336r8"
+}
