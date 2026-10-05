@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.geeksforgeeks.org/google-cloud-learn-with-communities/) |
-| Synced | 2026-10-05T15:05:23.831Z |
+| Synced | 2026-10-05T15:06:51.303Z |
 
 ## Problem Statement
 
