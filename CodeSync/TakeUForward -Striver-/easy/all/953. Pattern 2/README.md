@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://takeuforward.org/practice/dsa/pattern-2) |
-| Synced | 2026-10-05T16:55:17.525Z |
+| Synced | 2026-10-05T16:56:10.318Z |
 
 ## Problem Statement
 
