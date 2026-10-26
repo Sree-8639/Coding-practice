@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-10-05T15:06:51.303Z",
+  "submissionTimestamp": "2026-10-26T06:23:35.855Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
@@ -9,9 +9,9 @@
     "alt_route LEARNER CATEGORY",
     "Great for first-time cloud learners",
     "One extra step: GEAR sign-up",
+    "military_tech WHAT YOU'LL EARN",
     "tips_and_updates IMPORTANT",
-    "bolt SEATS ARE LIMITED",
-    "help_outline FAQ"
+    "bolt SEATS ARE LIMITED"
   ],
   "platform": "GeeksforGeeks",
   "language": "Go",
