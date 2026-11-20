@@ -1,0 +1,25 @@
+/*
+ * Platform: CodeChef
+ * Problem: Learning SQL Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY02/problems/LEARNSQL
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-20T18:33:37.626Z
+ */
+
+# cook your dish here
+r,c,e1=list(map(int,input().split()))
+r1=r+e1
+print(r1*c)
+cook local
+callable keyword
+cascii snippet
+chr keyword
+cl snippet
+class keyword
+classmethod keyword
+cls keyword
+cmp keyword
