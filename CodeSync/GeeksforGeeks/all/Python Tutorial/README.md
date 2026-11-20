@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/) |
-| Synced | 2026-11-20T16:17:40.750Z |
+| Synced | 2026-11-20T16:18:40.959Z |
 
 ## Problem Statement
 
