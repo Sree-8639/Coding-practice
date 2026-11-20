@@ -6,6 +6,8 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-20T16:41:34.527Z
+# Synced: 2026-11-20T16:42:35.743Z
 
-print("Hello, World!")
+#print("Hello, World!")
+name="Hello, World!"
+print(name)
