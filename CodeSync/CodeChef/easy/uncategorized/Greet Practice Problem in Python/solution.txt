@@ -1,0 +1,17 @@
+/*
+ * Platform: CodeChef
+ * Problem: Greet Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS05/problems/LPYAS50B
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-20T18:18:53.682Z
+ */
+
+# cook your dish here
+name=input()
+print(f"Hello {name}")
+input keyword
+raw_input keyword
