@@ -1,0 +1,24 @@
+/*
+ * Platform: CodeChef
+ * Problem: Chef and Instant Noodles Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY01/problems/INSTNOODLE
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-20T18:27:31.625Z
+ */
+
+# cook your dish here
+x,y=map(int,input().split())
+print(x*y)
+your local
+yield keyword
+bytearray keyword
+bytes keyword
+type keyword
+any keyword
+async keyword
+try keyword
+try Try/Except snippet
