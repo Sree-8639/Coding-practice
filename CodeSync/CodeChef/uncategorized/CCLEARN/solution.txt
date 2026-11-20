@@ -1,0 +1,24 @@
+/*
+ * Platform: CodeChef
+ * Problem: CCLEARN
+ * URL: https://www.codechef.com/practice/course/python/PPY01/problems/CCLEARN
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-20T18:31:17.727Z
+ */
+
+# cook your dish here
+n=int(input())
+print(n*2)
+next keyword
+None keyword
+nonlocal keyword
+not keyword
+NotImplemented keyword
+input local
+int local
+print local
+and keyword
