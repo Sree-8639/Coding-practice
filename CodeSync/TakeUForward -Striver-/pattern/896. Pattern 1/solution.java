@@ -5,9 +5,9 @@
  * Language: Java
  * Difficulty: Easy
  * Topics: Pattern, Basics
- * Runtime: 0.929 ms
+ * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-30T17:35:21.001Z
+ * Synced: 2026-11-20T18:39:49.763Z
  */
 
 class Solution {
@@ -16,19 +16,9 @@ class Solution {
             for(int j=0;j<n;j++){
                 System.out.print("*");
             }
-            System.out.println();
-        }
-    }
-    
-}
 class Solution {
     public void pattern1(int n) {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 System.out.print("*");
             }
-            System.out.println();
-        }
-    }
-    
-}
