@@ -1,0 +1,24 @@
+/*
+ * Platform: CodeChef
+ * Problem: Parking Charges Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY02/problems/PARKINGCHARG
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-20T18:36:47.356Z
+ */
+
+# cook your dish here
+x,y,h=list(map(int,input().split()))
+print(x+(y*(h-1)))
+here local
+hasattr keyword
+hash keyword
+help keyword
+hex keyword
+dish local
+chr keyword
+wh snippet
+while keyword
