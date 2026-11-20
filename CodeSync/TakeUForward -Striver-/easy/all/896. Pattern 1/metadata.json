@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-30T17:35:21.001Z",
-  "runtime": "0.929 ms",
+  "submissionTimestamp": "2026-11-20T18:39:49.763Z",
+  "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -11,5 +11,5 @@
   "language": "Java",
   "problemTitle": "896. Pattern 1",
   "problemUrl": "https://takeuforward.org/practice/dsa/pattern-1",
-  "submissionId": "mei60j"
+  "submissionId": "rs85k7"
 }
