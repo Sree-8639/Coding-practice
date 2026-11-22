@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-22T09:16:51.975Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "import pandas as pd data = { 'Color': ['Red', 'Blue', 'Green', 'Blue', 'Red'], 'Size': ['Small', 'Large', 'Medium', 'Small', 'Large'] } df = pd.DataFrame(data) print('Original DataFrame') display(df) # Perform one-hot encoding df_encoded = pd.get_dummies(df) print('\\n DataFrame after performing One-hot Encoding') display(df_encoded)",
+  "problemTitle": "Pandas - get_dummies() method",
+  "problemUrl": "https://www.geeksforgeeks.org/pandas/python-pandas-get_dummies-method/",
+  "submissionId": "63u5kx"
+}
