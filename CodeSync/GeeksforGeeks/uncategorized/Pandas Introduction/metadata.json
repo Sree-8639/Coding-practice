@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-22T09:17:33.849Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "import pandas as pd import numpy as np data = np.array(['g', 'e', 'e', 'k', 's']) s = pd.Series(data) print(\"Pandas Series:\") print(s)",
+  "problemTitle": "Pandas Introduction",
+  "problemUrl": "https://www.geeksforgeeks.org/pandas/introduction-to-pandas-in-python/",
+  "submissionId": "x8rmto"
+}
