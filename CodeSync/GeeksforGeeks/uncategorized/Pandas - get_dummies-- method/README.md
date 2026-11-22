@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.geeksforgeeks.org/pandas/python-pandas-get_dummies-method/) |
-| Synced | 2026-11-22T09:16:51.975Z |
+| Synced | 2026-11-22T09:17:50.301Z |
 
 ## Problem Statement
 
