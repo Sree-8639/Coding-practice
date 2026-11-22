@@ -1,0 +1,19 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Pandas Introduction
+ * URL: https://www.geeksforgeeks.org/pandas/introduction-to-pandas-in-python/
+ * Language: import pandas as pd import numpy as np data = np.array(['g', 'e', 'e', 'k', 's']) s = pd.Series(data) print("Pandas Series:") print(s)
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-22T09:17:33.849Z
+ */
+
+import pandas as pd
+import numpy as np
+
+data = np.array(['g', 'e', 'e', 'k', 's'])
+s = pd.Series(data)
+print("Pandas Series:")
+print(s)
