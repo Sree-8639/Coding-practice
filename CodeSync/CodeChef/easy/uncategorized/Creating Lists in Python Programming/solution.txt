@@ -1,0 +1,18 @@
+/*
+ * Platform: CodeChef
+ * Problem: Creating Lists in Python Programming
+ * URL: https://www.codechef.com/learn/course/python/LTCPY15/problems/PYTH85
+ * Language: # Consider the list 'fruits' and 'numbers' below fruits = ["apple", "banana", "orange", "grape"] numbers = [20, 10, 0, -5]
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-24T16:51:29.662Z
+ */
+
+# Update your code below this line
+integers=[1,2,3,4,5]
+print("Done")
+docs snippet
+dowh snippet
+divmod keyword
