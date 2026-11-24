@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.geeksforgeeks.org/python/polymorphism-in-python/) |
-| Synced | 2026-11-24T07:50:07.063Z |
+| Synced | 2026-11-24T07:51:04.871Z |
 
 ## Problem Statement
 
