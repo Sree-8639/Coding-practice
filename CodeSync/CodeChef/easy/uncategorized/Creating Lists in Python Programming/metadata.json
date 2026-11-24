@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-24T16:51:29.662Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "# Consider the list 'fruits' and 'numbers' below fruits = [\"apple\", \"banana\", \"orange\", \"grape\"] numbers = [20, 10, 0, -5]",
+  "problemTitle": "Creating Lists in Python Programming",
+  "problemUrl": "https://www.codechef.com/learn/course/python/LTCPY15/problems/PYTH85",
+  "submissionId": "w423ea"
+}
