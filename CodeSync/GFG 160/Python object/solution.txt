@@ -1,0 +1,54 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Python object
+ * URL: https://www.geeksforgeeks.org/python/python-object/
+ * Language: class Car: def __init__(self, model, price): self.model = model self.price = price car1 = Car("R8", 100000) print(car1.model) print(car1.price)
+ * Difficulty: Unknown
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-24T07:53:10.361Z
+ */
+
+class Car:
+    def __init__(self, model, price):
+        self.model = model
+        self.price = price
+​
+car1 = Car("R8", 100000)
+print(car1.model)
+print(car1.price)
+class Car:
+    def __init__(self, model):
+        self.model = model
+​
+    def show_model(self):
+        print("Model:", self.model)
+​
+    def update_model(self, new_model):
+        self.model = new_model
+​
+car1 = Car("R8")
+car1.show_model()
+car1.update_model("A6")
+car1.show_model()
+class Student:
+    def __init__(self, name, marks):
+        self.name = name
+        self.marks = marks
+​
+student1 = Student("Emma", 92)
+student2 = Student("Daniel", 88)
+​
+print(student1.name, student1.marks)
+print(student2.name, student2.marks)
+class Employee:
+    def __init__(self, name, department):
+        self.name = name
+        self.department = department
+​
+    def display(self):
+        print(self.name, "works in", self.department)
+​
+employee = Employee("Emma", "Sales")
+employee.display()
