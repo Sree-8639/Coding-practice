@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-11-24T07:53:10.361Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Car: def __init__(self, model, price): self.model = model self.price = price car1 = Car(\"R8\", 100000) print(car1.model) print(car1.price)",
+  "problemTitle": "Python object",
+  "problemUrl": "https://www.geeksforgeeks.org/python/python-object/",
+  "submissionId": "jxwapm"
+}
