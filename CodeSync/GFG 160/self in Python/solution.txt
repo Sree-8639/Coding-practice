@@ -1,0 +1,96 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: self in Python
+ * URL: https://www.geeksforgeeks.org/python/self-in-python-class/
+ * Language: class Car: def __init__(self, brand, model): self.brand = brand # Set instance attribute self.model = model # Set instance attribute def display(self): return self.brand, self.model # Create an instance of Car car1 = Car("Toyota", "Corolla") # Call the display method print(car1.display())
+ * Difficulty: Unknown
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-24T07:53:09.872Z
+ */
+
+class Car:
+    def __init__(self, brand, model):
+        self.brand = brand  # Set instance attribute
+        self.model = model  # Set instance attribute
+​
+    def display(self):
+        return self.brand, self.model
+​
+# Create an instance of Car
+car1 = Car("Toyota", "Corolla")
+​
+# Call the display method
+print(car1.display())
+class Circle:
+    def __init__(self, r):
+        self.r = r
+​
+    def area(self):
+        a = 3.14 * self.r ** 2
+        return a
+​
+# Creating an instance of Circle
+ins = Circle(5)
+​
+# Calling the area method
+print("Area of the circle:", ins.area())
+class Subject:
+​
+    def __init__(self, sub1, sub2):
+        self.sub1 = sub1
+        self.sub2 = sub2
+​
+obj = Subject("Maths", "Science")
+print(obj.sub1)
+print(obj.sub2)
+class Car:
+    def __init__(self, model, color):
+        self.model = model
+        self.color = color
+​
+    def show(self):
+        print("Model:", self.model)
+        print("Color:", self.color)
+​
+audi = Car("Audi A4", "Blue")
+ferrari = Car("Ferrari 488", "Green")
+​
+audi.show()
+ferrari.show()
+class Car:
+    def __init__(this, model, color):
+        this.model = model
+        this.color = color
+​
+    def show(this):
+        print("Model:", this.model)
+        print("Color:", this.color)
+​
+audi = Car("Audi A4", "Blue")
+audi.show()
+class Check:
+    def __init__(self):
+        print("Address of self:", id(self))
+​
+obj = Check()
+print("Address of object:", id(obj))
+class Counter:
+    def __init__(self):
+        self.count = 0
+​
+    def increment(self):
+        self.count += 1
+​
+    def decrement(self):
+        self.count -= 1
+​
+    def get_count(self):
+        return self.count
+​
+counter = Counter()
+counter.increment()
+counter.increment()
+counter.decrement()
+print(counter.get_count())
