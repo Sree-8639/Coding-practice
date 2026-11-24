@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-11-24T07:52:57.865Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Person: def __init__(self, name, age): self.name = name self.age = age a = Person(\"Max\", 30) b = Person(\"Emilia\", 25) print(a.name, a.age) print(b.name, b.age)",
+  "problemTitle": "__init__ in Python",
+  "problemUrl": "https://www.geeksforgeeks.org/python/__init__-in-python/",
+  "submissionId": "89dsi0"
+}
