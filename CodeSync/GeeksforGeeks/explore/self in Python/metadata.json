@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-11-24T07:53:09.872Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Car: def __init__(self, brand, model): self.brand = brand # Set instance attribute self.model = model # Set instance attribute def display(self): return self.brand, self.model # Create an instance of Car car1 = Car(\"Toyota\", \"Corolla\") # Call the display method print(car1.display())",
+  "problemTitle": "self in Python",
+  "problemUrl": "https://www.geeksforgeeks.org/python/self-in-python-class/",
+  "submissionId": "musqqt"
+}
