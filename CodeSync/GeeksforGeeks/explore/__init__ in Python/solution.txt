@@ -1,0 +1,43 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: __init__ in Python
+ * URL: https://www.geeksforgeeks.org/python/__init__-in-python/
+ * Language: class Person: def __init__(self, name, age): self.name = name self.age = age a = Person("Max", 30) b = Person("Emilia", 25) print(a.name, a.age) print(b.name, b.age)
+ * Difficulty: Unknown
+ * Topics: Data Science 360 Course Explore, Data Science 360 Course, Explore
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-24T07:52:57.865Z
+ */
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+​
+a = Person("Max", 30)
+b = Person("Emilia", 25)
+​
+print(a.name, a.age) 
+print(b.name, b.age)
+class Dog:
+    def __init__(self, name, breed="Mixed", age=1):
+        self.name = name
+        self.breed = breed
+        self.age = age
+​
+a = Dog("Buddy")
+b = Dog("Max", "Golden Retriever", 5)
+​
+print(a.name, a.breed, a.age)  
+print(b.name, b.breed, b.age)
+class A:
+    def __init__(self):
+        print("A init called")
+​
+class B(A):
+    def __init__(self):
+        super().__init__()   # Call parent __init__
+        print("B init called")
+​
+obj = B()
