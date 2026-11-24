@@ -1,0 +1,16 @@
+{
+  "submissionTimestamp": "2026-11-24T07:50:07.063Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Data Science 360 Course Explore",
+    "Data Science 360 Course",
+    "Explore"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Calculator: def add(self, *numbers): return sum(numbers) calc = Calculator() print(calc.add(5)) print(calc.add(5, 10)) print(calc.add(5, 10, 15))",
+  "problemTitle": "Polymorphism in Python",
+  "problemUrl": "https://www.geeksforgeeks.org/python/polymorphism-in-python/",
+  "submissionId": "j22mye"
+}
