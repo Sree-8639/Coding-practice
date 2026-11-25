@@ -1,0 +1,21 @@
+/*
+ * Platform: CodeChef
+ * Problem: Alice and Marks Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY03/problems/MARKSTW
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:34:40.700Z
+ */
+
+x,y = map(int,input().split())
+
+# write your code here
+if(x>=2*y):
+    print("Yes")
+elif(2*y<=x):
+    print("Yes")
+else:
+    print("No")
