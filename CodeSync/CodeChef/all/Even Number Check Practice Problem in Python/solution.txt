@@ -1,0 +1,29 @@
+/*
+ * Platform: CodeChef
+ * Problem: Even Number Check Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS09/problems/LPYAS87
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:49:40.311Z
+ */
+
+# Debug and fix the code
+n = int(input())
+
+if (n % 2 == 0):
+    print("true")
+else:
+    print("false")
+
+int keyword
+intern keyword
+print local
+input keyword
+print keyword
+isinstance keyword
+pprint snippet
+breakpoint keyword
+raw_input keyword
