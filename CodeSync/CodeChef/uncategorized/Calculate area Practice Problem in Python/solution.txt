@@ -1,0 +1,26 @@
+/*
+ * Platform: CodeChef
+ * Problem: Calculate area Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS14/problems/LPYAS140
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:20:17.237Z
+ */
+
+def calculate_area(length, width):
+    # Write your code here
+    return length*width 
+    
+    
+def main():
+    length, width = map(int, input().split())
+    area = calculate_area(length, width)
+    print(area)
+
+
+main()
+
+width local
