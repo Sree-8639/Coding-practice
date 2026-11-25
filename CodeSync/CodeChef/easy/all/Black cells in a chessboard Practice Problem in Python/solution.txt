@@ -1,0 +1,24 @@
+/*
+ * Platform: CodeChef
+ * Problem: Black cells in a chessboard Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY04/problems/BLACKCEL
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:55:28.790Z
+ */
+
+n = int(input())
+# write your code here
+print((n*n)//2)
+next keyword
+None keyword
+nonlocal keyword
+not keyword
+NotImplemented keyword
+print local
+input local
+int local
+and keyword
