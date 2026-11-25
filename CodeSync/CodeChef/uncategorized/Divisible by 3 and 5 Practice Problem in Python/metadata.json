@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-25T08:05:01.377Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "num = int(input()) if num % 3 == 0 and num % 5 == 0: print(\"Divisible by both 3 and 5\") else: print(\"Not divisible by both 3 and 5\")",
+  "problemTitle": "Divisible by 3 and 5 Practice Problem in Python",
+  "problemUrl": "https://www.codechef.com/practice/course/python/LPPYAS07/problems/LPYAS69",
+  "submissionId": "9ta36"
+}
