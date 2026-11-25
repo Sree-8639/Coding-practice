@@ -1,0 +1,19 @@
+/*
+ * Platform: CodeChef
+ * Problem: Check Voting Eligibility Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS07/problems/LPYAS70B
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:22:16.289Z
+ */
+
+a,n=input().split()
+age=int(a)
+if (age>=18 and n=="India"):
+    print("Eligible")
+else:
+    print("Not Eligible")
+Eligible local
