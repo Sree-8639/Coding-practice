@@ -1,0 +1,27 @@
+/*
+ * Platform: CodeChef
+ * Problem: My very 1st contest! Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY04/problems/MY1STCONTEST
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:43:57.766Z
+ */
+
+n,a,b = map(int,input().split())
+
+# write your code here
+r=n-a
+r1=r-b
+print(r,r1)
+r-b local
+r1 local
+raise keyword
+range keyword
+raw_input keyword
+reduce keyword
+reload keyword
+repr keyword
+return keyword
