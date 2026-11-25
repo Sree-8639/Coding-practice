@@ -1,0 +1,23 @@
+/*
+ * Platform: CodeChef
+ * Problem: Add Two Numbers Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY05/problems/FLOW001
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:41:29.956Z
+ */
+
+t = int(input())
+for i in range(0,t):
+    a,b = map(int,input().split())
+    res=a+b
+    print(res)
+    # write your code here
+res local
+reversed keyword
+frozenset keyword
+try Try/Except/Else snippet
+try Try/Except/Else/Finally snippet
