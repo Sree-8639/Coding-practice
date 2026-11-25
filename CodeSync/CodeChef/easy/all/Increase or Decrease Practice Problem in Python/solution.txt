@@ -1,0 +1,21 @@
+/*
+ * Platform: CodeChef
+ * Problem: Increase or Decrease Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS07/problems/LPYAS70
+ * Language: a, b, c = map(int, input().split()) if a < b < c: print("Increasing") elif a > b > c: print("Decreasing") else: print("Neither")
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:47:51.655Z
+ */
+
+# cook your dish here
+a,b,c=map(int,input().split())
+
+if a<b<c:
+    print("Increasing")
+elif a>b>c:
+    print("Decreasing")
+else:
+    print("Neither")
