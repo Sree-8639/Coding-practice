@@ -1,0 +1,21 @@
+/*
+ * Platform: CodeChef
+ * Problem: Positive and Negative Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS06/problems/LPYAS59
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T07:48:22.073Z
+ */
+
+# cook your dish here
+n=int(input())
+if(n>0):
+    print("Positive")
+elif(n<0):
+    print("Negative")
+else:
+    print("Zero")
+frozenset keyword
