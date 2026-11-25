@@ -1,0 +1,23 @@
+/*
+ * Platform: CodeChef
+ * Problem: Is It Syntax Error Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS09/problems/LPYAS89
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:50:38.638Z
+ */
+
+a=4+8
+print(a)
+abs keyword
+all keyword
+and keyword
+any keyword
+apply keyword
+as keyword
+ascii keyword
+assert keyword
+async keyword
