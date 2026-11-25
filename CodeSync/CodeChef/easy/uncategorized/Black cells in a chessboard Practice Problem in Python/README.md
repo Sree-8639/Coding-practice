@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/python/PPY04/problems/BLACKCEL) |
-| Synced | 2026-11-25T09:55:28.790Z |
+| Synced | 2026-11-25T09:57:51.998Z |
 
 ## Problem Statement
 
