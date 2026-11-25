@@ -1,0 +1,20 @@
+/*
+ * Platform: CodeChef
+ * Problem: Good Turn Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY05/problems/GDTURN
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:43:27.457Z
+ */
+
+t = int(input())
+for i in range(0,t):
+    x,y = map(int,input().split())
+    # write your code here
+    if x+y>6:
+        print("YES")
+    else:
+        print("NO")
