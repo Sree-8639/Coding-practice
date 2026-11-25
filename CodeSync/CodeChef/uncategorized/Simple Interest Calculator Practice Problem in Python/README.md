@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/python/LPPYAS14/problems/LPYAS140B) |
-| Synced | 2026-11-25T10:26:56.629Z |
+| Synced | 2026-11-25T10:33:24.896Z |
 
 ## Problem Statement
 
