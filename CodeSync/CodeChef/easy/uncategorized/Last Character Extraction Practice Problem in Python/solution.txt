@@ -1,0 +1,16 @@
+/*
+ * Platform: CodeChef
+ * Problem: Last Character Extraction Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS09/problems/LPYAS88
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:50:09.665Z
+ */
+
+# Debug and fix the code
+str = input()
+n = len(str)
+print(str[-1])
