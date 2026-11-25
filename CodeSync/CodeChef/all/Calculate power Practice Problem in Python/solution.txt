@@ -1,0 +1,25 @@
+/*
+ * Platform: CodeChef
+ * Problem: Calculate power Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS14/problems/LPYAS139
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:19:45.846Z
+ */
+
+def calculate_power(base, exponent):
+    #write your code here
+    return base**exponent
+    
+def main():
+    base, exponent = map(int, input().split())
+    result = calculate_power(base, exponent)
+    print(result)
+
+
+main()
+
+exponent local
