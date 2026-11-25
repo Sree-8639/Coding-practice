@@ -1,0 +1,30 @@
+/*
+ * Platform: CodeChef
+ * Problem: AB Difference Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY04/problems/ABDIFF
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T10:02:32.093Z
+ */
+
+a,b = map(int,input().split())
+
+# write your code here
+c=a+b
+d=a*b
+if(c>=d):
+    print(c-d)
+else:
+    print(d-c)
+d local
+debugger keyword
+def snippet
+def keyword
+deff snippet
+defs snippet
+del keyword
+delattr keyword
+dict keyword
