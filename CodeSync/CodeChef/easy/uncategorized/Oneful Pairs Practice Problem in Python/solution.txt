@@ -1,0 +1,43 @@
+/*
+ * Platform: CodeChef
+ * Problem: Oneful Pairs Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/PPY03/problems/ONEFULPAIRS
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T09:41:09.209Z
+ */
+
+a,b = map(int,input().split())
+
+# write your code here
+result=a+b+(a*b)
+if(result ==111):
+    print("Yes")
+else:
+    print("No")
+No
+ne
+ 
+keyword
+no
+nlocal
+ 
+keyword
+no
+t
+ 
+keyword
+No
+tImplemented
+ 
+keyword
+u
+n
+ic
+o
+de
+ 
+keyword
