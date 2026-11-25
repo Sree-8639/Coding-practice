@@ -1,0 +1,13 @@
+/*
+ * Platform: CodeChef
+ * Problem: Logical Condition Check - MCQ Question in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS07/problems/LPYAS61
+ * Language: if (x > 5 and y < 10) :
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-25T07:58:37.786Z
+ */
+
+if (x > 5 and y < 10) :
