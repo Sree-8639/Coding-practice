@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.codechef.com/practice/course/python/PPY04/problems/MY1STCONTEST) |
-| Synced | 2026-11-25T09:43:57.766Z |
+| Synced | 2026-11-25T09:45:09.350Z |
 
 ## Problem Statement
 
