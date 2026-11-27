@@ -6,7 +6,7 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T10:55:45.659Z
+# Synced: 2026-11-27T10:56:44.371Z
 
 #
 # Complete the 'print_full_name' function below.
@@ -21,3 +21,6 @@ def print_full_name(first, last):
     # Write your code here
 
 if __name__ == '__main__':
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
