@@ -1,0 +1,27 @@
+/*
+ * Platform: CodeChef
+ * Problem: First occurrence Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS13/problems/LPYAS129
+ * Language: numbers = list(map(int, input().split())) for i, num in enumerate(numbers): if num == 8: print(i) break
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-27T11:34:37.846Z
+ */
+
+numbers = list(map(int, input().split()))
+# Update your code below this line
+for i,num in enumerate(numbers):
+    if num==8:
+        print(i)
+        break
+input local
+int local
+in keyword
+input keyword
+int keyword
+intern keyword
+line local
+print local
+bin keyword
