@@ -6,7 +6,7 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T10:57:31.798Z
+# Synced: 2026-11-27T10:58:20.625Z
 
 #
 # Complete the 'print_full_name' function below.
@@ -23,5 +23,6 @@ def print_full_name(first, last):
 if __name__ == '__main__':
     first_name = input()
     last_name = input()
-    print(f"Hello {first_name}{last_name}! You just)
+    print(f"Hello {first_name} {last_name}! You just delved into 
+    python.")
     print_full_name(first_name, last_name)
