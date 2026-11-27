@@ -6,7 +6,7 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T07:48:35.590Z
+# Synced: 2026-11-27T08:20:15.552Z
 
 a = int(input())
 b = int(input())
