@@ -6,15 +6,15 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T10:49:11.981Z
+# Synced: 2026-11-27T10:52:27.743Z
 
 def split_and_join(line):
     line=line.split(" ")
+    line="-".join(line)
+    return line
+    
 
 if __name__ == '__main__':
     line = input()
     result = split_and_join(line)
-    
-    return line
-    line="-".join(line)
     print(result)
