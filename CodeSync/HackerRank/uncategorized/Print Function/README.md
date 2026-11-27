@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/python-print/problem) |
-| Synced | 2026-11-27T10:32:18.374Z |
+| Synced | 2026-11-27T10:33:06.112Z |
 
 ## Problem Statement
 
