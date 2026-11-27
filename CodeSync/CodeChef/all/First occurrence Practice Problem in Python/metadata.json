@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-27T11:34:37.846Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "numbers = list(map(int, input().split())) for i, num in enumerate(numbers): if num == 8: print(i) break",
+  "problemTitle": "First occurrence Practice Problem in Python",
+  "problemUrl": "https://www.codechef.com/practice/course/python/LPPYAS13/problems/LPYAS129",
+  "submissionId": "cpyh2k"
+}
