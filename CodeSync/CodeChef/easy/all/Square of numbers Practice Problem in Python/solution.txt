@@ -1,0 +1,17 @@
+/*
+ * Platform: CodeChef
+ * Problem: Square of numbers Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS13/problems/LPYAS130
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-27T11:41:07.669Z
+ */
+
+values = list(map(int, input().split()))
+# Update your code below this line
+for i in values:
+    if(i<=10):
+        print(i*i)
