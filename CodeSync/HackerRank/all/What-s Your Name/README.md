@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/whats-your-name/problem) |
-| Synced | 2026-11-27T10:57:31.798Z |
+| Synced | 2026-11-27T10:58:20.625Z |
 
 ## Problem Statement
 
