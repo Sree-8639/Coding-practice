@@ -6,13 +6,15 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T08:22:39.519Z
+# Synced: 2026-11-27T08:23:28.391Z
 
 def is_leap(year):
     leap = False
-    if(year % 4)
+    if(year % 4 ==0 & year %100!=0):
     # Write your logic here
     
     return leap
 
+        leap = True
+        
 year = int(input())
