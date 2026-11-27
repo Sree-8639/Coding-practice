@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-27T11:35:54.104Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "for i in range(5): if i == 2: continue print(i, end=\" \")",
+  "problemTitle": "continue effect - MCQ Question in Python",
+  "problemUrl": "https://www.codechef.com/practice/course/python/LPPYAS13/problems/LPYAS122",
+  "submissionId": "z5qg6u"
+}
