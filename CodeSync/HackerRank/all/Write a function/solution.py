@@ -6,7 +6,7 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T08:26:04.576Z
+# Synced: 2026-11-27T08:27:06.015Z
 
 def is_leap(year):
     leap = False
