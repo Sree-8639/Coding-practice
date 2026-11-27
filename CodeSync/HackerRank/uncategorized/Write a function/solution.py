@@ -6,6 +6,13 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T08:21:45.130Z
+# Synced: 2026-11-27T08:22:39.519Z
 
-def is_lea
+def is_leap(year):
+    leap = False
+    if(year % 4)
+    # Write your logic here
+    
+    return leap
+
+year = int(input())
