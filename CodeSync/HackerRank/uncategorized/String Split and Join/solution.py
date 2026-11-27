@@ -6,9 +6,12 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T10:37:17.744Z
+# Synced: 2026-11-27T10:38:05.649Z
 
 def split_and_join(line):
-    # write your code here
+    # write your code her
 
 if __name__ == '__main__':
+    line = input()
+    result = split_and_join(line)
+    print(result)
