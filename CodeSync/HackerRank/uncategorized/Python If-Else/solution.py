@@ -6,23 +6,17 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T07:41:54.877Z
+# Synced: 2026-11-27T07:42:52.107Z
 
 #!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
 
 n=int(input())
 if (n%2==0):
     if n in range(2,5):
         print("Not Weird")
-else:
-    elif n in range(6,20):
+    elif n in range(6,21):
         print("Weird")
     else:
         print("Not Weird")      
+else:
     print("Weird")
