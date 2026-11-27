@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/write-a-function/problem) |
-| Synced | 2026-11-27T08:23:28.391Z |
+| Synced | 2026-11-27T08:24:30.615Z |
 
 ## Problem Statement
 
