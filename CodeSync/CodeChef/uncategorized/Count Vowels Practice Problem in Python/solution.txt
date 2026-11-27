@@ -1,0 +1,24 @@
+/*
+ * Platform: CodeChef
+ * Problem: Count Vowels Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS11/problems/LPYAS110B
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-27T11:12:24.944Z
+ */
+
+# cook your dish here
+n=input()
+a="aeiou"
+count=0
+for i in n:
+    if i in a:
+        count+=1
+print(count)
+    
+for snippet
+for keyword
+format keyword
