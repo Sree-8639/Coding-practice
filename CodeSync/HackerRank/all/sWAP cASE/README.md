@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/swap-case/problem) |
-| Synced | 2026-11-27T10:35:20.065Z |
+| Synced | 2026-11-27T10:36:05.612Z |
 
 ## Problem Statement
 
