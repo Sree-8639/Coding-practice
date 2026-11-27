@@ -1,0 +1,14 @@
+{
+  "submissionTimestamp": "2026-11-27T11:24:53.718Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Easy",
+  "tags": [
+    "Uncategorized"
+  ],
+  "platform": "CodeChef",
+  "language": "# Enter the value of N N = int(input()) # Initialize the sum total_sum = 0 # Calculate the sum of the first N multiples of 3 for i in range(1, N + 1): total_sum += 3 * i # Print the sum print(total_sum)",
+  "problemTitle": "Sum of Multiple of 3 Practice Problem in Python",
+  "problemUrl": "https://www.codechef.com/practice/course/python/LPPYAS12/problems/LPYAS120B",
+  "submissionId": "mhkh2s"
+}
