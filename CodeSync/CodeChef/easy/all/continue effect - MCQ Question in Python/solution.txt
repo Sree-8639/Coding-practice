@@ -1,0 +1,16 @@
+/*
+ * Platform: CodeChef
+ * Problem: continue effect - MCQ Question in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS13/problems/LPYAS122
+ * Language: for i in range(5): if i == 2: continue print(i, end=" ")
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-27T11:35:54.104Z
+ */
+
+for i in range(5):
+    if i == 2:
+        continue
+    print(i, end=" ")
