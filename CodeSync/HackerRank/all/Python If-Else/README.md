@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/py-if-else/problem) |
-| Synced | 2026-11-27T07:41:54.877Z |
+| Synced | 2026-11-27T07:42:52.107Z |
 
 ## Problem Statement
 
