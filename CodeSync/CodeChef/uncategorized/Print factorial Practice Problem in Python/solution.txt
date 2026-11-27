@@ -1,0 +1,19 @@
+/*
+ * Platform: CodeChef
+ * Problem: Print factorial Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS11/problems/LPYAS110
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-27T11:11:25.986Z
+ */
+
+n=int(input())
+fact=1
+for i in range(1,n+1):
+    fact=fact*i  
+print(fact)
+    
+fact local
