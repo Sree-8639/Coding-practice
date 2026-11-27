@@ -6,9 +6,13 @@
 # Topics: Uncategorized
 # Runtime: N/A
 # Memory: N/A
-# Synced: 2026-11-27T10:58:29.553Z
+# Synced: 2026-11-27T11:02:51.587Z
 
 def mutate_string(string, position, character):
     return
 
 if __name__ == '__main__':
+    s = input()
+    i, c = input().split()
+    s_new = mutate_string(s, int(i), c)
+    print(s_new)
