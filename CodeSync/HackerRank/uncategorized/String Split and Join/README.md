@@ -11,7 +11,7 @@
 | Runtime | N/A |
 | Memory | N/A |
 | Problem URL | [Link](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) |
-| Synced | 2026-11-27T10:45:45.369Z |
+| Synced | 2026-11-27T10:46:56.651Z |
 
 ## Problem Statement
 
