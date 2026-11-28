@@ -1,0 +1,27 @@
+/*
+ * Platform: CodeChef
+ * Problem: Increase the integer Practice Problem in Python
+ * URL: https://www.codechef.com/practice/course/python/LPPYAS15/problems/LPYAS149
+ * Language: Python3 ​
+ * Difficulty: Easy
+ * Topics: Uncategorized
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-28T17:37:35.145Z
+ */
+
+# cook your dish here
+t= int(input())
+for i in range (t):
+    n=int(input())
+    print(n+1)
+    
+next keyword
+None keyword
+nonlocal keyword
+not keyword
+NotImplemented keyword
+input local
+int local
+print local
+in local
